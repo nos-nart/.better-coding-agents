@@ -9,6 +9,7 @@ This project has this setup for:
 - svelte & sveltekit
 - effect.ts
 - neverthrow
+- opencode
 
 ## getting started
 

@@ -1,0 +1,3 @@
+- notes for menus and meal plans
+- timers
+- full backup & restore
